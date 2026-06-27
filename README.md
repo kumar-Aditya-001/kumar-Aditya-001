@@ -1,142 +1,239 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Aditya Kumar Gupta
+# 👋 Hi, I'm Aditya Kumar Gupta
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Electronics+and+Communication+Engineering+Student;IoT+Developer;Arduino+Enthusiast;Embedded+Systems+Learner;Passionate+about+Electronics+%26+Programming" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Electronics+and+Communication+Engineering+Student;Arduino+Developer;IoT+Enthusiast;Embedded+Systems+Learner;C+Programmer;Always+Learning+New+Technologies"/>
 
-<p align="center">
+<br>
+
 <img src="https://img.shields.io/badge/ECE-Student-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Arduino-Developer-00979D?style=for-the-badge&logo=arduino">
-<img src="https://img.shields.io/badge/IoT-Projects-00C853?style=for-the-badge">
-<img src="https://img.shields.io/badge/Embedded%20Systems-Learner-red?style=for-the-badge">
-</p>
-
-</div>
+<img src="https://img.shields.io/badge/IoT-Enthusiast-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/Embedded-Systems-red?style=for-the-badge">
 
 ---
 
 # 👨‍💻 Professional Dashboard
 
-| **Category** | **Details** |
-|-------------|-------------|
-| 👤 **Name** | Aditya Kumar Gupta |
-| 🎓 **Education** | B.Tech - Electronics & Communication Engineering |
-| 💼 **Role** | ECE Student • IoT Developer • Embedded Systems Enthusiast |
-| 🌍 **Country** | India |
-| 🎯 **Interested In** | Embedded Systems, IoT, Arduino, Automation, Electronics, Programming |
-| 📚 **Learning** | Advanced Embedded Systems, IoT Applications, PCB Design |
+<table>
+<tr>
+<th>Category</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>👤 Name</td>
+<td>Aditya Kumar Gupta</td>
+</tr>
+
+<tr>
+<td>🎓 Education</td>
+<td>B.Tech • Electronics & Communication Engineering</td>
+</tr>
+
+<tr>
+<td>💼 Role</td>
+<td>Embedded Systems & IoT Developer</td>
+</tr>
+
+<tr>
+<td>🌍 Country</td>
+<td>India 🇮🇳</td>
+</tr>
+
+<tr>
+<td>🎯 Interests</td>
+<td>IoT • Arduino • Embedded Systems • Electronics • Programming</td>
+</tr>
+
+</table>
 
 ---
 
-# 🛠 Technical Skills
+# 🚀 Technical Skills
 
-| Technology | Proficiency |
-|------------|------------|
-| Arduino | ⭐⭐⭐⭐⭐ |
-| Embedded Systems | ⭐⭐⭐⭐☆ |
-| Internet of Things (IoT) | ⭐⭐⭐⭐☆ |
-| C Programming | ⭐⭐⭐⭐☆ |
-| Digital Electronics | ⭐⭐⭐⭐⭐ |
-| Analog Electronics | ⭐⭐⭐⭐☆ |
-| Network Analysis | ⭐⭐⭐⭐☆ |
-| Signals & Systems | ⭐⭐⭐⭐☆ |
-| Tinkercad | ⭐⭐⭐⭐☆ |
-| Microsoft Excel | ⭐⭐⭐⭐☆ |
-| MS Word | ⭐⭐⭐⭐⭐ |
-| PowerPoint | ⭐⭐⭐⭐⭐ |
+<table>
 
----
+<tr>
+<th>Skill</th>
+<th>Level</th>
+</tr>
 
-# 💻 Programming Languages
+<tr>
+<td>Arduino</td>
+<td>⭐⭐⭐⭐⭐</td>
+</tr>
 
-<p align="left">
+<tr>
+<td>Embedded Systems</td>
+<td>⭐⭐⭐⭐☆</td>
+</tr>
 
-<img src="https://skillicons.dev/icons?i=c"/>
+<tr>
+<td>IoT</td>
+<td>⭐⭐⭐⭐☆</td>
+</tr>
 
-</p>
+<tr>
+<td>C Programming</td>
+<td>⭐⭐⭐⭐☆</td>
+</tr>
 
----
+<tr>
+<td>Digital Electronics</td>
+<td>⭐⭐⭐⭐⭐</td>
+</tr>
 
-# 🔧 Tools & Platforms
+<tr>
+<td>Analog Electronics</td>
+<td>⭐⭐⭐⭐☆</td>
+</tr>
 
-<p>
+<tr>
+<td>Network Analysis</td>
+<td>⭐⭐⭐⭐☆</td>
+</tr>
 
-<img src="https://skillicons.dev/icons?i=arduino,vscode,github"/>
+<tr>
+<td>Signals & Systems</td>
+<td>⭐⭐⭐⭐☆</td>
+</tr>
 
-</p>
+<tr>
+<td>MS Excel</td>
+<td>⭐⭐⭐⭐☆</td>
+</tr>
 
-| Software | Experience |
-|----------|------------|
-| Arduino IDE | ⭐⭐⭐⭐⭐ |
-| Tinkercad | ⭐⭐⭐⭐☆ |
-| GitHub | ⭐⭐⭐⭐☆ |
-| Microsoft Excel | ⭐⭐⭐⭐☆ |
-| Microsoft Word | ⭐⭐⭐⭐⭐ |
-| PowerPoint | ⭐⭐⭐⭐⭐ |
+<tr>
+<td>MS Word</td>
+<td>⭐⭐⭐⭐⭐</td>
+</tr>
 
----
+<tr>
+<td>PowerPoint</td>
+<td>⭐⭐⭐⭐⭐</td>
+</tr>
 
-# 🚀 Projects Dashboard
+<tr>
+<td>Tinkercad</td>
+<td>⭐⭐⭐⭐☆</td>
+</tr>
 
-| Project | Technology | Description | Status |
-|---------|------------|-------------|--------|
-| ⚡ Smart Energy Monitoring System | IoT, Arduino | Real-time electricity monitoring using IoT platform | ✅ Completed |
-| 🅿 Smart Parking System | Arduino, Sensors | Automated parking slot detection system | ✅ Completed |
-| 🔥 Fire Detection System | Tiva C Series Microcontroller | Fire detection using sensors and embedded programming | ✅ Completed |
-
----
-
-# 📖 Core Subject Knowledge
-
-| Subject | Level |
-|----------|-------|
-| Digital Electronics | ⭐⭐⭐⭐⭐ |
-| Analog Electronics | ⭐⭐⭐⭐☆ |
-| Signals & Systems | ⭐⭐⭐⭐☆ |
-| Network Analysis | ⭐⭐⭐⭐☆ |
-| Microprocessors | ⭐⭐⭐⭐☆ |
-| Microcontrollers | ⭐⭐⭐⭐☆ |
-| Embedded Systems | ⭐⭐⭐⭐☆ |
-| IoT | ⭐⭐⭐⭐☆ |
-
----
-
-# 📊 Skill Overview
-
-| Domain | Expertise |
-|---------|-----------|
-| Embedded Programming | ██████████ 90% |
-| Arduino Development | ██████████ 95% |
-| IoT Development | █████████░ 90% |
-| Electronics | █████████░ 90% |
-| C Programming | ████████░░ 80% |
-| Documentation | ██████████ 95% |
+</table>
 
 ---
 
-# 🎯 Current Focus
+# 💻 Technologies
+
+<img src="https://skillicons.dev/icons?i=c,arduino,vscode,github"/>
+
+---
+
+# 🚀 Projects
+
+<table>
+
+<tr>
+<th>Project</th>
+<th>Technology</th>
+<th>Status</th>
+</tr>
+
+<tr>
+<td>⚡ Smart Energy Monitoring System</td>
+<td>Arduino • IoT</td>
+<td>✅ Completed</td>
+</tr>
+
+<tr>
+<td>🅿 Smart Parking System</td>
+<td>Arduino • Ultrasonic Sensor</td>
+<td>✅ Completed</td>
+</tr>
+
+<tr>
+<td>🔥 Fire Detection System</td>
+<td>Tiva C Series Microcontroller</td>
+<td>✅ Completed</td>
+</tr>
+
+</table>
+
+---
+
+# 📚 Core Subjects
+
+<table>
+
+<tr>
+<th>Subject</th>
+<th>Knowledge</th>
+</tr>
+
+<tr>
+<td>Digital Electronics</td>
+<td>★★★★★</td>
+</tr>
+
+<tr>
+<td>Analog Electronics</td>
+<td>★★★★☆</td>
+</tr>
+
+<tr>
+<td>Signals & Systems</td>
+<td>★★★★☆</td>
+</tr>
+
+<tr>
+<td>Network Analysis</td>
+<td>★★★★☆</td>
+</tr>
+
+<tr>
+<td>Embedded Systems</td>
+<td>★★★★☆</td>
+</tr>
+
+<tr>
+<td>IoT</td>
+<td>★★★★☆</td>
+</tr>
+
+</table>
+
+---
+
+# 📊 Skill Progress
+
+| Skill | Progress |
+|:-----:|:--------:|
+| Arduino | ██████████ 95% |
+| Embedded | █████████ 90% |
+| IoT | █████████ 90% |
+| C Programming | ████████ 80% |
+| Electronics | █████████ 90% |
+
+---
+
+# 🎯 Currently Learning
 
 ```text
-✓ Embedded Systems
-✓ Internet of Things (IoT)
-✓ Arduino Development
-✓ Electronics Projects
-✓ C Programming
-✓ Open Source Learning
+✓ Advanced Embedded Systems
+✓ IoT Applications
+✓ PCB Design
+✓ Git & GitHub
+✓ Open Source
 ```
 
 ---
 
 # 🌟 Career Objective
 
-> Passionate Electronics and Communication Engineering student with strong knowledge in Embedded Systems, Arduino, IoT, Digital Electronics, Analog Electronics, and C Programming. Interested in developing innovative real-world automation and smart monitoring solutions while continuously improving technical skills.
+> Passionate Electronics & Communication Engineering student with practical experience in Arduino, IoT, Embedded Systems and Electronics. I enjoy building real-world automation projects and continuously improving my programming and hardware development skills.
 
 ---
 
-<div align="center">
-
-## 🚀 Thanks for Visiting!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=150&section=footer"/>
 
 </div>
